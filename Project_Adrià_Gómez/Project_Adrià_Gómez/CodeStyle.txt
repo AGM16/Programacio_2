@@ -1,0 +1,27 @@
+CodeStyles:
+
+1)camelCase
+2)PascalCase
+3)sneak_case
+4)Hungarian_Notation
+
+My CodeStyle
+----------------------------------
+
+FileName:
+-I will use PascalCase
+-Example: PointCase.h
+
+Variables:
+-Will use snake _case without Hungarian Notation
+-Exemple: int in_point;
+
+class Names:
+-Will use PascalCase
+-Example: class Point;
+
+Method Names:
+-Will use PacalCase
+-Example: Zero()
+
+----------------------------------
